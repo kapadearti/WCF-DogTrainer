@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSession xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <session>
+    <petname>Pet_Training_App.pet</petname>
+    <sessionsname>Obedience Training 9AM TO 11AM</sessionsname>
+  </session>
+  <session>
+    <petname>Pet_Training_App.pet</petname>
+    <sessionsname>Obedience Training 9AM TO 11AM</sessionsname>
+  </session>
+  <session>
+    <petname>Pet_Training_App.pet</petname>
+    <sessionsname>Obedience Training 9AM TO 11AM</sessionsname>
+  </session>
+  <session>
+    <petname>Gerty</petname>
+    <sessionsname>Basic Training 8AM TO 10AM</sessionsname>
+  </session>
+  <session>
+    <petname>Tommyu</petname>
+    <sessionsname>Basic Training 8AM TO 10AM</sessionsname>
+  </session>
+  <session>
+    <petname>Tommyu</petname>
+    <sessionsname>Basic Training 8AM TO 10AM</sessionsname>
+  </session>
+  <session>
+    <petname>Tommy</petname>
+    <sessionsname>Basic Training 8AM TO 10AM</sessionsname>
+  </session>
+  <session>
+    <petname>Tommy</petname>
+    <sessionsname>Basic Training 8AM TO 10AM</sessionsname>
+  </session>
+  <session>
+    <petname>Bruno</petname>
+    <sessionsname>Hand Signals Training 10AM TO 12PM</sessionsname>
+  </session>
+  <session>
+    <petname>Bob</petname>
+    <sessionsname>Hand Signals Training 10AM TO 12PM</sessionsname>
+  </session>
+  <session>
+    <petname>Tommyu</petname>
+    <sessionsname>Verbal Command Training 12PM TO 2PM</sessionsname>
+  </session>
+  <session>
+    <petname>Gerty</petname>
+    <sessionsname>Verbal Command Training 12PM TO 2PM</sessionsname>
+  </session>
+  <session>
+    <petname>Bob</petname>
+    <sessionsname>Verbal Command Training 12PM TO 2PM</sessionsname>
+  </session>
+  <session>
+    <petname>Ana</petname>
+    <sessionsname>Verbal Command Training 12PM TO 2PM</sessionsname>
+  </session>
+  <session>
+    <petname>Tommy</petname>
+    <sessionsname>House Training 3PM TO 5PM</sessionsname>
+  </session>
+  <session>
+    <petname>Bob</petname>
+    <sessionsname>Obedience Training 9AM TO 11AM</sessionsname>
+  </session>
+  <session>
+    <petname>Ana</petname>
+    <sessionsname>Obedience Training 9AM TO 11AM</sessionsname>
+  </session>
+</ArrayOfSession>

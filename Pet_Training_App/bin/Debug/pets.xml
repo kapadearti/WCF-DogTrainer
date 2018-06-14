@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pet>
+    <petname>Tommy</petname>
+    <petgender>Male</petgender>
+    <petbreed>Labrador Retriever</petbreed>
+  </pet>
+  <pet>
+    <petname>Tommy</petname>
+    <petgender>Male</petgender>
+    <petbreed>French Bulldog</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Louis</ownerName>
+    <petname>Tommyu</petname>
+    <petgender>Male</petgender>
+    <petbreed>Spaniel (Cocker)</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Fortus</ownerName>
+    <petname>Gerty</petname>
+    <petgender>Male</petgender>
+    <petbreed>Pug </petbreed>
+  </pet>
+  <pet>
+    <ownerName>Fortus</ownerName>
+    <petname>Gerty</petname>
+    <petgender>Male</petgender>
+    <petbreed>Pug </petbreed>
+  </pet>
+  <pet>
+    <ownerName>Test one</ownerName>
+    <petname>Bruno</petname>
+    <petgender>Male</petgender>
+    <petbreed>Labrador Retriever</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Test one</ownerName>
+    <petname>Bob</petname>
+    <petgender>Male</petgender>
+    <petbreed>French Bulldog</petbreed>
+  </pet>
+  <pet>
+    <ownerName>test</ownerName>
+    <petname>Ana</petname>
+    <petgender>Female</petgender>
+    <petbreed>Golden Retriever</petbreed>
+  </pet>
+  <pet>
+    <ownerName>test</ownerName>
+    <petname>Ana</petname>
+    <petgender>Female</petgender>
+    <petbreed>Golden Retriever</petbreed>
+  </pet>
+  <pet>
+    <ownerName>ABC</ownerName>
+    <petname>abc</petname>
+    <petgender>Male</petgender>
+    <petbreed>Miniature Schnauzer </petbreed>
+  </pet>
+  <pet>
+    <ownerName>ABC</ownerName>
+    <petname>CCC</petname>
+    <petgender>Male</petgender>
+    <petbreed>Boxer</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Sunny</ownerName>
+    <petname>AAA</petname>
+    <petgender>Male</petgender>
+    <petbreed>French Bulldog</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Sunny</ownerName>
+    <petname />
+    <petgender>Male</petgender>
+    <petbreed>--Select--</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Sunny</ownerName>
+    <petname>jjjj</petname>
+    <petgender>Male</petgender>
+    <petbreed>Spaniel (Cocker)</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Test one</ownerName>
+    <petname />
+    <petgender>Male</petgender>
+    <petbreed>--Select--</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Test one</ownerName>
+    <petname>Monty</petname>
+    <petgender>Male</petgender>
+    <petbreed>Pug </petbreed>
+  </pet>
+  <pet>
+    <ownerName>Akash</ownerName>
+    <petname>Tiger</petname>
+    <petgender>Male</petgender>
+    <petbreed>French Bulldog</petbreed>
+  </pet>
+  <pet>
+    <ownerName>Louis</ownerName>
+    <petname>bob</petname>
+    <petgender>Male</petgender>
+    <petbreed>Bulldog</petbreed>
+  </pet>
+</ArrayOfPet>

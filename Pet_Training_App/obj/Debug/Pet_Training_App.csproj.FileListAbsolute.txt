@@ -1,0 +1,15 @@
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.csprojAssemblyReference.cache
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\MainWindow.g.cs
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\App.g.cs
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App_MarkupCompile.cache
+E:\ACS\Pet_Training_App\Pet_Training_App\bin\Debug\Pet_Training_App.exe.config
+E:\ACS\Pet_Training_App\Pet_Training_App\bin\Debug\Pet_Training_App.exe
+E:\ACS\Pet_Training_App\Pet_Training_App\bin\Debug\Pet_Training_App.pdb
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\MainWindow.baml
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.g.resources
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.Properties.Resources.resources
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.csproj.GenerateResource.cache
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.csproj.CoreCompileInputs.cache
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.exe
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.pdb
+E:\ACS\Pet_Training_App\Pet_Training_App\obj\Debug\Pet_Training_App.csproj.ResolveComReference.cache

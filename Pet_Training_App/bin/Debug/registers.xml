@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <register>
+    <firstName>Test one</firstName>
+    <lastName>Testing</lastName>
+    <address>heidelberg</address>
+    <city>heidelberg</city>
+    <email>test@email.com</email>
+    <telefon>98774445511</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Fortus</firstName>
+    <lastName>BoBlig</lastName>
+    <address>Ludwig</address>
+    <city>Lu Hbf</city>
+    <email>fBoblig@gmail.com</email>
+    <telefon>+491752568526</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Sunny</firstName>
+    <lastName>Londhe</lastName>
+    <address>Heidelberg</address>
+    <city>Heidelberg</city>
+    <email>sunnyrlondhe@gmail.com</email>
+    <telefon>9820928923890</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Louis</firstName>
+    <lastName>Martinez</lastName>
+    <address>LGS</address>
+    <city>Heidelberg</city>
+    <email>louis@gmail.com</email>
+    <telefon>+49265956266</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Fortus</firstName>
+    <lastName>BoBlig</lastName>
+    <address>Ludwig</address>
+    <city>Lu Hbf</city>
+    <email>fBoblig@gmail.com</email>
+    <telefon>+491752568526</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Louis</firstName>
+    <lastName>Martinez</lastName>
+    <address>LGS</address>
+    <city>Heidelberg</city>
+    <email>louis@gmail.com</email>
+    <telefon>+49265956266</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Louis</firstName>
+    <lastName>Martinez</lastName>
+    <address>LGS</address>
+    <city>Heidelberg</city>
+    <email>louis@gmail.com</email>
+    <telefon>+49265956266</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Fortus</firstName>
+    <lastName>BoBlig</lastName>
+    <address>Ludwig</address>
+    <city>Lu Hbf</city>
+    <email>fBoblig@gmail.com</email>
+    <telefon>+491752568526</telefon>
+    <regdate>15-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Fortus</firstName>
+    <lastName>BoBlig</lastName>
+    <address>Ludwig</address>
+    <city>Lu Hbf</city>
+    <email>fBoblig@gmail.com</email>
+    <telefon>+491752568526</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Test one</firstName>
+    <lastName>Testing</lastName>
+    <address>heidelberg</address>
+    <city>heidelberg</city>
+    <email>test@email.com</email>
+    <telefon>98774445511</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Test one</firstName>
+    <lastName>Testing</lastName>
+    <address>heidelberg</address>
+    <city>heidelberg</city>
+    <email>test@email.com</email>
+    <telefon>98774445511</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+  <register>
+    <firstName>Test one</firstName>
+    <lastName>Testing</lastName>
+    <address>heidelberg</address>
+    <city>heidelberg</city>
+    <email>test@email.com</email>
+    <telefon>98774445511</telefon>
+    <regdate>13-06-2018</regdate>
+  </register>
+</ArrayOfRegister>

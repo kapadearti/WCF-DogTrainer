@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAttendance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Gerty</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Gerty</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Gerty</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>15-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Gerty</petname>
+  </attendance>
+  <attendance>
+    <Date>15-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>15-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>15-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>15-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>06-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Gerty</petname>
+  </attendance>
+  <attendance>
+    <Date>06-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>06-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Absent</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>06-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>06-06-2018</Date>
+    <classs>Basic Training 8AM TO 10AM</classs>
+    <status>Present</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Present</status>
+    <petname>Bruno</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Absent</status>
+    <petname>Bob</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Present</status>
+    <petname>Bruno</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Absent</status>
+    <petname>Bob</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Present</status>
+    <petname>Bruno</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Absent</status>
+    <petname>Bob</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Present</status>
+    <petname>Bruno</petname>
+  </attendance>
+  <attendance>
+    <Date>02-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Absent</status>
+    <petname>Bob</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Present</status>
+    <petname>Bruno</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Hand Signals Training 10AM TO 12PM</classs>
+    <status>Absent</status>
+    <petname>Bob</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Absent</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Absent</status>
+    <petname>Gerty</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Present</status>
+    <petname>Bob</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Absent</status>
+    <petname>Ana</petname>
+  </attendance>
+  <attendance>
+    <Date>13-06-2018</Date>
+    <classs>House Training 3PM TO 5PM</classs>
+    <status>Present</status>
+    <petname>Tommy</petname>
+  </attendance>
+  <attendance>
+    <Date>14-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Absent</status>
+    <petname>Tommyu</petname>
+  </attendance>
+  <attendance>
+    <Date>14-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Absent</status>
+    <petname>Gerty</petname>
+  </attendance>
+  <attendance>
+    <Date>14-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Present</status>
+    <petname>Bob</petname>
+  </attendance>
+  <attendance>
+    <Date>14-06-2018</Date>
+    <classs>Verbal Command Training 12PM TO 2PM</classs>
+    <status>Absent</status>
+    <petname>Ana</petname>
+  </attendance>
+</ArrayOfAttendance>
